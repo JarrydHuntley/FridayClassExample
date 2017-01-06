@@ -10,7 +10,7 @@ namespace FridayClassExample
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("This is the beginning of my project");
         }
     }
 }
